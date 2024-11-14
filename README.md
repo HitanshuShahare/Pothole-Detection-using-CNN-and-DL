@@ -82,16 +82,11 @@ Audio("/content/output.wav")
 
 The model achieves approximately **90% accuracy** on test data. Loss and accuracy trends across epochs are plotted to observe model improvement.
 
-This project includes model summaries and output images.
+![Model Summary](images/summery.png)
 
-## Model Summary
-![Model Summary](path/to/summery.png)
+![Output 1](images/output1.png)
 
-## Output 1
-![Output 1](path/to/output1.png)
-
-## Output 2
-![Output 2](path/to/output2.png)
+![Output 2](images/output2.png)
 
 ## Contributing
 
