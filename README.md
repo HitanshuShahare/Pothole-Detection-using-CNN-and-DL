@@ -78,9 +78,20 @@ gtts_obj.save("/content/output.wav")
 Audio("/content/output.wav")
 ```
 
-## Sample Results
+## Project Outputs
 
 The model achieves approximately **90% accuracy** on test data. Loss and accuracy trends across epochs are plotted to observe model improvement.
+
+This project includes model summaries and output images.
+
+## Model Summary
+![Model Summary](path/to/summery.png)
+
+## Output 1
+![Output 1](path/to/output1.png)
+
+## Output 2
+![Output 2](path/to/output2.png)
 
 ## Contributing
 
